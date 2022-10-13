@@ -1,0 +1,6 @@
+Email Application program
+this application does the following
+1. generate email address with the following syntax firstName.lastname@deparment.company.com
+2. determine the department(sales, development, accounting, )if none leave a blank
+3. have set method to change password,  set the mail box capacity and define an alternative email address
+4. have get method to display the name, email mailbox capacity
